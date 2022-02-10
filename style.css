@@ -17,3 +17,36 @@
     padding: 9px 22px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background: orange;
+}
+.cat2{
+    background: orchid;
+}
+.cat3{
+    background: blue;
+}
+.categories{
+    margin-top: 90px;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.shoes{
+    margin-top: 60px;
+}
+.subscribe{
+    height: 300px;
+}
